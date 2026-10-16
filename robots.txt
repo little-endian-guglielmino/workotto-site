@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.little-endian.it/workotto-site/sitemap.xml
